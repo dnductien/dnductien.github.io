@@ -17,3 +17,6 @@ main:
     
   - title: "Blog"
     url: /year-archive/
+    
+  - title: "Test"
+    url: /test/
