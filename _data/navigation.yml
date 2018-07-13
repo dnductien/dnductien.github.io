@@ -1,8 +1,5 @@
 # main links links
-main:
-  - title: "Curriculum"
-    url: /cv/
-    
+main:    
   - title: "Projects"
     url: /projects/
     
