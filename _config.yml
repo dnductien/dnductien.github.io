@@ -117,6 +117,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - papers
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

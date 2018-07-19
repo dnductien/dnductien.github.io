@@ -112,7 +112,7 @@ You can search for my publications here or see them at [my Google scholar](https
   <div class="if bibtex_template" style="display: none;">
     <ul> <li>
       <span class="if journal !nolink">
-        <a class="bibtexVar" href="http://www.cs.cmu.edu/~mmv/papers/+BIBTEXKEY+.pdf" extra="BIBTEXKEY">
+        <a class="bibtexVar" href="/papers/+BIBTEXKEY+.zip" extra="BIBTEXKEY">
             <span style="text-decoration: underline;" class="title"></span>,
         </a>
       </span>
