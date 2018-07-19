@@ -19,27 +19,27 @@ You can download [my résumé &#128206;](link) or my [full CV &#128206;](link).
 
 ## POSITIONS
 -------
-- Aug 16 -- Sep 18: **Postdoctoral Fellow**, Dublin City University, Ireland
-- Feb 14 -- Jul 16: **Postdoctoral Fellow**, University of Trento & University of Cagliari, Italy
-- Sep 10 -- Jul 16: **Researcher**, Media Lab, DISI - University of Trento, Italy
-- Mar 09 -- Jul 09: **Visiting Researcher**, Toyota Technology Institute, Nagoya, Japan
-- Mar 07 -- Sep 10: **Teaching Assistant and Lecturer**, University of Science, VNU-HCM, Vietnam
+- Aug 16 -- Sep 18: **Postdoctoral Fellow**, [Dublin City University](https://www.dcu.ie/), Ireland
+- Feb 14 -- Jul 16: **Postdoctoral Fellow**, [Department of Information Engineering and Computer Science (DISI)](https://www.disi.unitn.it/), [University of Trento](https://www.unitn.it/) & [Pattern Recognition and Applications (PraLab)](http://pralab.diee.unica.it/), [University of Cagliari](https://www.unica.it/), Italy
+- Sep 10 -- Jul 16: **Researcher**, [Media Lab](http://mmlab.disi.unitn.it/), [DISI](https://www.disi.unitn.it/) - [University of Trento](https://www.unitn.it/), Italy
+- Mar 09 -- Jul 09: **Visiting Researcher**, [Toyota Technology Institute](https://www.toyota-ti.ac.jp/english/), Japan
+- Mar 07 -- Sep 10: **Teaching Assistant and Lecturer**, [University of Science](https://hcmus.edu.vn/), [VNU-HCM](http://en.vnuhcm.edu.vn/), Vietnam
 
 ## EDUCATION
 -------
-- Feb 14: **Ph.D. in Information Communication and Technology**, University of Trento, Itally. 
-- Mar 10: **M.Sc. in Computer Science**, University of Science, VNU-HCM, Vietnam.
-- Sep 06: **B.Sc., Honors in Computer Science**, University of Science, VNU-HCM, Vietnam.
+- Feb 14: **Ph.D. in Information Communication and Technology**, [University of Trento](https://www.unitn.it/), Italy
+- Mar 10: **M.Sc. in Computer Science**, [University of Science](https://hcmus.edu.vn/), [VNU-HCM](http://en.vnuhcm.edu.vn/), Vietnam
+- Sep 06: **B.Sc., Honors in Computer Science**, [University of Science](https://hcmus.edu.vn/), [VNU-HCM](http://en.vnuhcm.edu.vn/), Vietnam
 
 ## RESEARCH EXPERIENCE
 -------
 
 ### PI/Co-PI
-- **Vietnamese Word Segmentation** (6/08 – 6/10): Funded by Vietnam Ministry of Science and Technology (VNÐ 50.0 million).
-- **LifeCloud** (4/17 – 9/17): Funded by Science Foundation Ireland (SFI) (€27,500).
+- **Vietnamese Word Segmentation** (6/08 – 6/10): Funded by Vietnam Ministry of Science and Technology.
+- **LifeCloud** (4/17 – 9/17): Funded by Science Foundation Ireland (SFI).
 
 ### Researcher
-- **Euprojects: GLOCAL** (09 – 12) (e7.4 million) and **Living Knowledge** (09 – 12). 
+- **Euprojects: GLOCAL** (09 – 12) and **Living Knowledge** (09 – 12). 
 - **Other Projects:** 6 national and regional projects during 2008 - 2018.
 
 ### Talks
@@ -59,7 +59,7 @@ You can download [my résumé &#128206;](link) or my [full CV &#128206;](link).
 - **Conferences:** ACM MM, ACM SIGIR, ACM ICMR, IEEE ICME, and many others.
 
 ### Research Impact
-- **h-index = 11**, i10-index = 14, total citations = 442. Citation counts according to Google Scholar, retrieved July 2018.
+- **h-index = 11**, i10-index = 14, total citations = 453. Citation counts according to Google Scholar, retrieved July 2018.
 
 ## TEACHING EXPERIENCE
 -------
