@@ -60,7 +60,7 @@ You can download [my résumé &#128206;](link) or my [full CV &#128206;](link).
 - **Conferences:** ACM MM, ACM SIGIR, ACM ICMR, IEEE ICME, and many others.
 
 ### Research Impact
-- **h-index = 11**, i10-index = 14, total citations = 453. Citation counts according to Google Scholar, retrieved July 2018.
+- **h-index = 12**, i10-index = 17, total citations = 544. Citation counts according to Google Scholar, retrieved October 2018.
 
 ## TEACHING EXPERIENCE
 -------
