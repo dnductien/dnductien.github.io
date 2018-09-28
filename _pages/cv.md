@@ -19,7 +19,7 @@ You can download [my résumé &#128206;](link) or my [full CV &#128206;](link).
 
 ## POSITIONS
 -------
-- Oct 18 -- Now: **Associate Professor**, [Department of Information Science and Media Studies](https://www.uib.no/en/infomedia), [University of Bergen](https://www.uib.no/en), Bergen, Norway 
+- Oct 18 -- Now: **Associate Professor**, [Department of Information Science and Media Studies](https://www.uib.no/en/infomedia), [University of Bergen](https://www.uib.no/en), Norway 
 - Aug 16 -- Sep 18: **Postdoctoral Fellow**, [Dublin City University](https://www.dcu.ie/), Ireland
 - Feb 14 -- Jul 16: **Postdoctoral Fellow**, [Department of Information Engineering and Computer Science (DISI)](https://www.disi.unitn.it/), [University of Trento](https://www.unitn.it/) & [Pattern Recognition and Applications (PraLab)](http://pralab.diee.unica.it/), [University of Cagliari](https://www.unica.it/), Italy
 - Sep 10 -- Jul 16: **Researcher**, [Media Lab](http://mmlab.disi.unitn.it/), [DISI](https://www.disi.unitn.it/) - [University of Trento](https://www.unitn.it/), Italy
