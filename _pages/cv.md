@@ -11,8 +11,8 @@ redirect_from:
 
 <div style="text-align: right">
 &#128231; ductien [dot] dang nguyen [at] uib [dot] no<br/>
-&#128222; (353) 83 866 7433<br/>
-&#128279; https://dnductien.github.io
+&#128222; (47) 55 58 91 73<br/>
+&#128279; https://about.me/dnductien
 </div>
 
 You can download [my résumé &#128206;](link) or my [full CV &#128206;](link).
@@ -110,4 +110,4 @@ You can download [my résumé &#128206;](link) or my [full CV &#128206;](link).
 - Good level: LIRE, Image.NET.
 - Others: Latex, Photoshop, Lightroom.-->
 
-<center>Last update: July 2018</center>
+<center>Last update: November 2018</center>
