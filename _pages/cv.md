@@ -60,12 +60,12 @@ You can download [my résumé &#128206;](link) or my [full CV &#128206;](link).
 - **Conferences:** ACM MM, ACM SIGIR, ACM ICMR, IEEE ICME, and many others.
 
 ### Research Impact
-- **h-index = 12**, i10-index = 17, total citations = 544. Citation counts according to Google Scholar, retrieved October 2018.
+- **h-index = 13**, i10-index = 18, total citations = 562. Citation counts according to Google Scholar, retrieved November 2018.
 
 ## TEACHING EXPERIENCE
 -------
 ### Lecturer & Teaching Assistant
-- **Undergraduate and Master courses.** Dublin City University (2016 - now), University of Trento (2011 - 2016), University of Science (2008 - 2010), and Saigon Technology University (2009).
+- **Undergraduate and Master courses.** University of Bergen (2018 - Now), Dublin City University (2016 - 2018), University of Trento (2011 - 2016), University of Science (2008 - 2010), and Saigon Technology University (2009). 
  
 ### Supervisor
 - **Ph.D. Students:** Liting Zhou, School of Computing, Dublin City University, 2017 - (expected) 2020.
