@@ -8,7 +8,7 @@ redirect_from:
 image: "./images/tuscany.jpg"
 ---
 
-I am an associate professor (Førsteamanuensis) at the University of Bergen (UiB), Department of Information Science and Media Studies. I do research in multimedia verification, multimedia analytics and personal data analytics. 
+I am a Professor at the University of Bergen (UiB), Department of Information Science and Media Studies. I do research in multimedia verification, multimedia forensics, multimedia retrieval and personal data analytics. 
 
 On this page you can find my [curriculum vitae](/cv/), my [projects](/projects/), [modules](/teaching/), and a list of my [publications](/publications/) – which may all be more or less up-to-date.
 
